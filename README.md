@@ -1,6 +1,6 @@
 # KRNL REMAKE 2024
 # https://discord.gg/gykhepQdwv
-## KRNL Remake is a new roblox exploit powered by Forlorn.
-## It is currently v1.0
+## KRNL Remake is a roblox exploit powered by arcadia
+## It is currently v1.2
 # Passion project; For the KRNL!
-### seriously icebear revive krnl pls pls
+### thx for reviving krnl, new devs (pls bring back to windows with old ui pls pls)
